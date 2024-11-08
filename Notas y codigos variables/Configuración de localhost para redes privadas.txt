@@ -1,0 +1,57 @@
+Configuración de localhost para casos de redes privadas
+
+IPV4: 
+
+ipconfig
+
+Kestrel y launchsetings para cuando una red sea privada  y tenga cifrado la ip y necesitemos ejecutar la pagina 
+
+/kestrel/
+-------------------------------------------------------------------------------
+builder.WebHost.UseKestrel(options =>
+{
+    options.Listen(System.Net.IPAddress.Loopback, 7029); // Cambia a Loopback para pruebas locales en localhost
+});
+-------------------------------------------------------------------------------
+/launchsetings/
+-------------------------------------------------------------------------------
+{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:7029", // Modificar para que apunte a localhost
+      "sslPort": 44395
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:7029", // Modificar para que apunte a localhost
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "https": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:7029", // Modificar para que apunte a localhost
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
+----------------------------------------------------------------------------
+/

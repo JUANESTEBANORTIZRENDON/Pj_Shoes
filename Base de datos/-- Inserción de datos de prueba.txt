@@ -1,0 +1,26 @@
+-- Inserción de tallas europeas en la tabla Talla
+INSERT INTO Talla (Talla) VALUES (36);
+INSERT INTO Talla (Talla) VALUES (37);
+INSERT INTO Talla (Talla) VALUES (38);
+INSERT INTO Talla (Talla) VALUES (39);
+INSERT INTO Talla (Talla) VALUES (40);
+INSERT INTO Talla (Talla) VALUES (41);
+INSERT INTO Talla (Talla) VALUES (42);
+INSERT INTO Talla (Talla) VALUES (43);
+INSERT INTO Talla (Talla) VALUES (44);
+INSERT INTO Talla (Talla) VALUES (45);
+
+-- Relación entre Zapatos y Tallas en la tabla ZapatoTalla
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (1, 7, 10);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (1, 8, 5);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (2, 9, 7);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (2, 10, 12);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (3, 11, 8);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (3, 12, 4);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (4, 9, 6);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (5, 8, 10);
+INSERT INTO ZapatoTalla (Id_Zapato, Id_Talla, Stock) VALUES (6, 7, 15);
+
+--insercion de datos de zapato 
+INSERT INTO Zapato (Id_Zapato, Precio, NomZap, ImagenUrl) 
+VALUES (1, 199.99, 'Nike Air', 'https://image-url.com/nike-air');

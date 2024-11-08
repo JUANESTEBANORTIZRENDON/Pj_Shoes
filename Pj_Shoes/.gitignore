@@ -1,0 +1,11 @@
+# Archivos y carpetas innecesarios
+.vs/
+*.suo
+*.vscode/
+*.bin
+*.json
+*.sqlite
+
+# Archivos del sistema
+Thumbs.db
+*.DS_Store

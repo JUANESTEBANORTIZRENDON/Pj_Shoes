@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\datos\\dbzapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\datos\\dbzapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\controllers\\\u00BAiniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\controllers\\\u00BAiniciocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\plantilla\\restablecer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\plantilla\\restablecer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\views\\inicio\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\views\\inicio\\actualizar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\views\\inicio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\views\\inicio\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\views\\inicio\\confirmar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\servicios\\utilidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\servicios\\utilidadservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\models\\correodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\servicios\\correoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\servicios\\correoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|c:\\users\\valentina\\onedrive\\escritorio\\juan esteban\\estudios\\unaula\\s3\\poo1\\proyecto final\\shoes 2.0\\pj_shoes\\pj_shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55F8A4F1-8C10-4FF1-8A4F-73B2AA6F73ED}|Pj_Shoes\\Pj_Shoes.csproj|solutionrelative:pj_shoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,15 +71,147 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DBZapatos.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Datos\\DBZapatos.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Datos\\DBZapatos.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Datos\\DBZapatos.cs",
+              "RelativeToolTip": "Pj_Shoes\\Datos\\DBZapatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:04:49.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZapatosController.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Controllers\\ZapatosController.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Controllers\\ZapatosController.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Controllers\\ZapatosController.cs",
+              "RelativeToolTip": "Pj_Shoes\\Controllers\\ZapatosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T12:04:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actualizar.cshtml",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Actualizar.cshtml",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Views\\Inicio\\Actualizar.cshtml",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Actualizar.cshtml",
+              "RelativeToolTip": "Pj_Shoes\\Views\\Inicio\\Actualizar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:15:40.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Views\\Inicio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Index.cshtml",
+              "RelativeToolTip": "Pj_Shoes\\Views\\Inicio\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:35:42.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restablecer.html",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Plantilla\\Restablecer.html",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Plantilla\\Restablecer.html",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Plantilla\\Restablecer.html",
+              "RelativeToolTip": "Pj_Shoes\\Plantilla\\Restablecer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-04T03:51:22.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Confirmar.cshtml",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Confirmar.cshtml",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Views\\Inicio\\Confirmar.cshtml",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Views\\Inicio\\Confirmar.cshtml",
+              "RelativeToolTip": "Pj_Shoes\\Views\\Inicio\\Confirmar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T03:40:20.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u00BAInicioController.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Controllers\\\u00BAInicioController.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Controllers\\\u00BAInicioController.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Controllers\\\u00BAInicioController.cs",
+              "RelativeToolTip": "Pj_Shoes\\Controllers\\\u00BAInicioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:55:23.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Models\\Usuario.cs",
+              "RelativeToolTip": "Pj_Shoes\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:00:33.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UtilidadServicio.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Servicios\\UtilidadServicio.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Servicios\\UtilidadServicio.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Servicios\\UtilidadServicio.cs",
+              "RelativeToolTip": "Pj_Shoes\\Servicios\\UtilidadServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:56:51.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CorreoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Models\\CorreoDTO.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Models\\CorreoDTO.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Models\\CorreoDTO.cs",
+              "RelativeToolTip": "Pj_Shoes\\Models\\CorreoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:52:17.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CorreoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Servicios\\CorreoServicio.cs",
+              "RelativeDocumentMoniker": "Pj_Shoes\\Servicios\\CorreoServicio.cs",
+              "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Servicios\\CorreoServicio.cs",
+              "RelativeToolTip": "Pj_Shoes\\Servicios\\CorreoServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:33:39.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Program.cs",
               "RelativeDocumentMoniker": "Pj_Shoes\\Program.cs",
               "ToolTip": "C:\\Users\\valentina\\OneDrive\\Escritorio\\Juan Esteban\\Estudios\\UNAULA\\S3\\POO1\\Proyecto Final\\Shoes 2.0\\Pj_Shoes\\Pj_Shoes\\Program.cs",
               "RelativeToolTip": "Pj_Shoes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T05:04:41.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T05:04:41.641Z"
             }
           ]
         },

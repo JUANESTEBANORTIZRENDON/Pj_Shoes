@@ -1,0 +1,75 @@
+-- Creación de la tabla Rol
+CREATE TABLE Rol (
+    Id_Rol SERIAL PRIMARY KEY,
+    NombreRol VARCHAR(50) NOT NULL
+);
+
+-- Creación de la tabla Usuario
+CREATE TABLE Usuario (
+    IdUsuario SERIAL PRIMARY KEY,
+    Nombre VARCHAR(50) NOT NULL,
+    Correo VARCHAR(100) NOT NULL,
+    Clave VARCHAR(100) NOT NULL,
+    Restablecer BOOLEAN NOT NULL,
+    Confirmado BOOLEAN NOT NULL,
+    Token VARCHAR(100),
+    Id_Rol INT,
+    FOREIGN KEY (Id_Rol) REFERENCES Rol(Id_Rol) ON DELETE SET NULL
+);
+
+-- Creación de la tabla Marca
+CREATE TABLE Marca (
+    Id_Marca SERIAL PRIMARY KEY,
+    Marca VARCHAR(50) NOT NULL
+);
+
+-- Creación de la tabla Zapato
+CREATE TABLE Zapato (
+    Id_Zapato SERIAL PRIMARY KEY,
+    Precio NUMERIC(10, 2) NOT NULL,
+    NomZap VARCHAR(100) NOT NULL,
+    ImagenUrl VARCHAR(255),
+    Id_Marca INT,
+    FOREIGN KEY (Id_Marca) REFERENCES Marca(Id_Marca) ON DELETE CASCADE
+);
+
+-- Creación de la tabla Talla
+CREATE TABLE Talla (
+    Id_Talla SERIAL PRIMARY KEY,
+    Talla INT NOT NULL UNIQUE
+);
+
+-- Creación de la tabla ZapatoTalla (Relación entre Zapato y Talla)
+CREATE TABLE ZapatoTalla (
+    Id_Zapato INT,
+    Id_Talla INT,
+    Stock INT NOT NULL,
+    PRIMARY KEY (Id_Zapato, Id_Talla),
+    FOREIGN KEY (Id_Zapato) REFERENCES Zapato(Id_Zapato) ON DELETE CASCADE,
+    FOREIGN KEY (Id_Talla) REFERENCES Talla(Id_Talla) ON DELETE CASCADE
+);
+
+-- Creación de la tabla Carrito
+CREATE TABLE Carrito (
+    Id_Carrito SERIAL PRIMARY KEY,
+    Id_Usuario INT,
+    FOREIGN KEY (Id_Usuario) REFERENCES Usuario(IdUsuario) ON DELETE CASCADE
+);
+
+-- Creación de la tabla CarritoZapato (Relación entre Carrito y Zapato)
+CREATE TABLE CarritoZapato (
+    Id_Carrito INT,
+    Id_Zapato INT,
+    Cantidad INT NOT NULL,
+    PRIMARY KEY (Id_Carrito, Id_Zapato),
+    FOREIGN KEY (Id_Carrito) REFERENCES Carrito(Id_Carrito) ON DELETE CASCADE,
+    FOREIGN KEY (Id_Zapato) REFERENCES Zapato(Id_Zapato) ON DELETE CASCADE
+);
+
+-- Creación de la tabla Venta
+CREATE TABLE Venta (
+    Id_Venta SERIAL PRIMARY KEY,
+    Id_Carrito INT,
+    Fecha DATE NOT NULL,
+    FOREIGN KEY (Id_Carrito) REFERENCES Carrito(Id_Carrito) ON DELETE CASCADE
+);
